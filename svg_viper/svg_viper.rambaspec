@@ -1,8 +1,8 @@
 # Template information section
-name: "swifty_viper"
+name: "svg_viper"
 summary: "Swift VIPER module template with UIViewController playing as a View."
-author: "Valeriy Popov"
-version: "0.1.0"
+author: "Oleg Leizer"
+version: "0.0.1"
 license: "MIT"
 
 # The declarations for code files
